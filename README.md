@@ -1,3 +1,3 @@
 # Primary-Challenge
 Ejercicio Python del Challenge Primary
-Probado en Pytohn Version 3.8.5
+Probado en Python Version 3.8.5
